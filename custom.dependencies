@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "PixelOS-AOSP/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+  },
+  {
+    "repository": "jhchong94/android_kernel_xiaomi_sm8250_los",
+    "target_path": "kernel/xiaomi/sm8250",
+    "branch": "lineage-23.0"
+  },
+  {
+    "repository": "jhchong94/android_vendor_xiaomi_sm8250-common",
+    "target_path": "vendor/xiaomi/sm8250-common",
+    "branch": "lineage-23.1"
+  }
+]
